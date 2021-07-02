@@ -42,8 +42,6 @@ $ bash main_script.sh
 ```
 ```
 ```
-### ☑️Subscribe our channel on youtube⚙️:
-   https://www.youtube.com/channel/UC5GjaNLtyqJD8gkm7MI7f_A?view_as=subscriber
-
-### ☑️ Join our Whatsapp Group✴️:
-   https://chat.whatsapp.com/CFiddfO21kjJ7vhihFGQi3
+### ☑️follow our ID on Instagram⚙️:
+  https://www.instagram.com/heart.1.hacker
+  https://www.instagram.com/a.s__hacker
