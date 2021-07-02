@@ -17,28 +17,28 @@ E-TOOL is a Tool which can be used to Get Microphone voice note from victim also
 ### ☑️ ***Installation***:
 
 ```
-$ apt-get update -y
+ apt-get update -y
 ```
 ```
-$ apt-get upgrade -y
+ apt-get upgrade -y
 ```
 ```
-$ pkg install git -y
+ pkg install git -y
 ```
 ```
-$ pip install lolcat
+ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Expert-Hacker/E-TOOL.git
+ git clone https://github.com/sarthak-teen/Asmichack
 ```
 ```
-$ cd E-TOOL
+ cd Asmichack
 ```
 ```
-$ bash setup.sh
+ bash setup.sh
 ```
 ```
-$ bash main_script.sh
+ bash main_script.sh
 ```
 ```
 ```
